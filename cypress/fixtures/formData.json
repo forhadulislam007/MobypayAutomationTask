@@ -1,0 +1,26 @@
+{
+  "site": {
+    "siteURL": "https://demoqa.com/"
+  },
+  "formdata1": {
+    "firstname": "Test",
+    "lastname": "User",
+    "email": "test@c.com",
+    "phone": "1234567890",
+    "address": "Dhaka"
+  },
+  "formdata2": {
+    "firstname": "123",
+    "lastname": "456",
+    "email": "test@",
+    "phone": "123456",
+    "address": "NY"
+  },
+  "formdata3": {
+    "firstname": "@#",
+    "lastname": "__",
+    "email": "test@",
+    "phone": "//",
+    "address": "Badda"
+  }
+}

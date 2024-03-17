@@ -1,0 +1,15 @@
+describe('visitsite',function(){
+    it('should load data', function(){
+        cy.visitsite()
+        cy.practiceform()
+        // cy.contact()
+        //cy.contact2()
+        cy.contact3()
+        cy.gender()
+        cy.otherdata()
+        cy.hobbies()
+        cy.image()
+        cy.address()
+        cy.save()
+    })
+})

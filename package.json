@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "cypress": "^13.7.0",
+    "cypress-file-upload": "^5.0.8"
+  },
+  "dependencies": {
+    "cypress-real-events": "^1.12.0"
+  }
+}
